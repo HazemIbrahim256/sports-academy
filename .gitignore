@@ -31,3 +31,5 @@ dist/
 # Editors / IDE
 .vscode/
 .idea/
+
+venv/
